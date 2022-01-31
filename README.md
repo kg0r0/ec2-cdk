@@ -1,8 +1,6 @@
-# Welcome to your CDK TypeScript project!
+# EC2 GETTING STARTED GUIDE (CDK v2)
 
-This is a blank project for TypeScript development with CDK.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+"[Deploy a Web Application on Amazon EC2 GETTING STARTED GUIDE](https://aws.amazon.com/getting-started/guides/deploy-webapp-ec2/?nc1=h_ls)" is compatible with AWS CDK v2.
 
 ## Useful commands
 
